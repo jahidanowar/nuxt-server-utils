@@ -10,7 +10,7 @@ function defineNitroPlugin(def: NitroAppPlugin): NitroAppPlugin {
   return def;
 }
 
-export default defineNitroPlugin(async (app: NitroApp) => {
+export default defineNitroPlugin(async () => {
   const config = useRuntimeConfig();
 
   if (!config.nuxtServerUtils?.mongodbUri) {

@@ -14,7 +14,8 @@ A collection of utilities for Nuxt server.
 ## Features
 
 <details>
-<summary>Filtering Collections (Mongoose)</summary>  
+<summary>Filtering Collections (Mongoose)</summary>
+
 - [x] Filtering
 - [x] Sorting
 - [x] Pagination
@@ -26,6 +27,7 @@ A collection of utilities for Nuxt server.
 
 <details>
 <summary>Authorization</summary>
+
 - [x] Authority checker utility
 - [ ] Permission checker utility
 - [ ] Policy utility
@@ -33,6 +35,7 @@ A collection of utilities for Nuxt server.
 
 <details>
 <summary>Resource Utilities</summary>
+
 - [x] Resource index utility
 - [x] Resource show utility
 - [x] Resource delete utility

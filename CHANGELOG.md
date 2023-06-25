@@ -1,5 +1,18 @@
 # Changelog
 
+## v0.0.4
+
+[compare changes](https://github.com/jahidanowar/nuxt-server-utils/compare/v0.0.3...v0.0.4)
+
+
+### 🩹 Fixes
+
+  - Types added for resource utility ([f281d6b](https://github.com/jahidanowar/nuxt-server-utils/commit/f281d6b))
+
+### ❤️  Contributors
+
+- Jahidanowar <milon5143@gmail.com>
+
 ## v0.0.3
 
 [compare changes](https://github.com/jahidanowar/nuxt-server-utils/compare/v0.0.2...v0.0.3)

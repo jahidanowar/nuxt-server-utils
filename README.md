@@ -6,6 +6,7 @@
 [![npm downloads][npm-downloads-src]][npm-downloads-href]
 [![License][license-src]][license-href]
 [![Nuxt][nuxt-src]][nuxt-href]
+[![Netlify Status](https://api.netlify.com/api/v1/badges/cf64cdd8-0813-4467-9652-011df41eeadd/deploy-status)](https://app.netlify.com/sites/nuxt-server-utils/deploys)
 
 A collection of utilities for Nuxt server.
 

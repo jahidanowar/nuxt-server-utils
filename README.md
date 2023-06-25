@@ -1,4 +1,6 @@
-# Nuxt Server Utils
+![Nuxt Server Utils](.github/nuxt-server-utils.png)
+
+# 🛠️ Nuxt Server Utils
 
 [![npm version][npm-version-src]][npm-version-href]
 [![npm downloads][npm-downloads-src]][npm-downloads-href]

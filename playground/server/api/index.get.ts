@@ -1,8 +1,7 @@
-import { allows } from "#nuxt-server-utils";
+import { Authorizer } from "#nuxt-server-utils";
 import { defineEventHandler } from "#imports";
 
 export default defineEventHandler((event) => {
-  allows(event, () => false);
-
+  Authorizer.allows(event, () => true, "You are not allowed");
   return `Gate passed`;
 });

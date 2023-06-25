@@ -1,5 +1,18 @@
 # Changelog
 
+## v0.0.3
+
+[compare changes](https://github.com/jahidanowar/nuxt-server-utils/compare/v0.0.2...v0.0.3)
+
+
+### 🚀 Enhancements
+
+  - ValidateSchema validator added ([895686d](https://github.com/jahidanowar/nuxt-server-utils/commit/895686d))
+
+### ❤️  Contributors
+
+- Jahidanowar <milon5143@gmail.com>
+
 ## v0.0.2
 
 [compare changes](https://github.com/jahidanowar/nuxt-server-utils/compare/v0.0.1...v0.0.2)

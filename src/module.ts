@@ -53,6 +53,15 @@ export default defineNuxtModule<ModuleOptions>({
         const validateSchema: typeof import("${resolver.resolve(
           "./runtime/server/utils"
         )}").validateSchema;
+        const indexRecourceHelper: typeof import("${resolver.resolve(
+          "./runtime/server/utils"
+        )}").indexRecourceHelper;
+        const showResourceHelper: typeof import("${resolver.resolve(
+          "./runtime/server/utils"
+        )}").showResourceHelper;
+        const deleteResourceHelper: typeof import("${resolver.resolve(
+          "./runtime/server/utils"
+        )}").deleteResourceHelper;
       }`,
     });
 

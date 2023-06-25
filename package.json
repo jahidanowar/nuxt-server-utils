@@ -3,6 +3,7 @@
   "version": "0.0.3",
   "description": "A collection of utility functions for Nuxt server.",
   "repository": "https://github.com/jahidanowar/nuxt-server-utils",
+  "homepage": "https://nuxt-server-utils.jahid.dev/",
   "license": "MIT",
   "type": "module",
   "exports": {

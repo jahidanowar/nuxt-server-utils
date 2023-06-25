@@ -1,5 +1,18 @@
 # Changelog
 
+## v0.0.5
+
+[compare changes](https://github.com/jahidanowar/nuxt-server-utils/compare/v0.0.4...v0.0.5)
+
+
+### 🩹 Fixes
+
+  - ValidateSchema deps issue ([d6f00ea](https://github.com/jahidanowar/nuxt-server-utils/commit/d6f00ea))
+
+### ❤️  Contributors
+
+- Jahidanowar <milon5143@gmail.com>
+
 ## v0.0.4
 
 [compare changes](https://github.com/jahidanowar/nuxt-server-utils/compare/v0.0.3...v0.0.4)

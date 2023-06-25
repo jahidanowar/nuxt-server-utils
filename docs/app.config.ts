@@ -1,7 +1,7 @@
 export default defineAppConfig({
   docus: {
     title: "Nuxt Server Utils",
-    description: "a collection of utilities for Nuxt Server",
+    description: "A collection of utility functions for Nuxt API development.",
     image:
       "https://raw.githubusercontent.com/jahidanowar/nuxt-server-utils/main/.github/nuxt-server-utils.png",
     socials: {

@@ -8,7 +8,7 @@
 [![Nuxt][nuxt-src]][nuxt-href]
 [![Netlify Status](https://api.netlify.com/api/v1/badges/cf64cdd8-0813-4467-9652-011df41eeadd/deploy-status)](https://app.netlify.com/sites/nuxt-server-utils/deploys)
 
-A collection of utilities for Nuxt server.
+A collection of utility functions for Nuxt API development.
 
 - [✨ &nbsp;Release Notes](/CHANGELOG.md)
 - [🏀 Online playground](https://stackblitz.com/edit/nuxt-server-utils?file=nuxt.config.ts)

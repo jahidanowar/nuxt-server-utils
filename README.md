@@ -11,7 +11,7 @@ A collection of utilities for Nuxt server.
 
 - [✨ &nbsp;Release Notes](/CHANGELOG.md)
 - [🏀 Online playground](https://stackblitz.com/edit/nuxt-server-utils?file=nuxt.config.ts)
-  <!-- - [📖 &nbsp;Documentation](https://example.com) -->
+- [📖 &nbsp;Documentation](https://nuxt-server-utils.jahid.dev)
 
 ## Features
 

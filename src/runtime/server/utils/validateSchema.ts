@@ -1,5 +1,5 @@
 import { ZodSchema } from "zod";
-
+import { createError } from "h3";
 /**
  *  Validate the request body
  * @param data any - the request body
@@ -7,7 +7,7 @@ import { ZodSchema } from "zod";
  * @param data any - the request body
  * @returns void
  */
-export function validateSchema(data: any, schema: ZodSchema): void {
+export function validateSchema(schema: ZodSchema, data: any): void {
   try {
     schema.parse(data);
   } catch (e: any) {

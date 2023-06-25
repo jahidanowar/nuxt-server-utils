@@ -1,6 +1,7 @@
 import type { NitroApp } from "nitropack";
 import mongoose from "mongoose";
 import { logger } from "@nuxt/kit";
+//@ts-ignore
 import { useRuntimeConfig } from "#imports";
 
 type NitroAppPlugin = (nitro: NitroApp) => void;

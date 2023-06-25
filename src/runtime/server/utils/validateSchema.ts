@@ -1,6 +1,7 @@
 import { ZodSchema } from "zod";
 import { createError } from "h3";
 /**
+ * @deprecated since version 0.0.6
  *  Validate the request body
  * @param data any - the request body
  * @param schema ZodSchema - The schema to validate against

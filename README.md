@@ -8,7 +8,7 @@
 A collection of utilities for Nuxt server.
 
 - [✨ &nbsp;Release Notes](/CHANGELOG.md)
-  <!-- - [🏀 Online playground](https://stackblitz.com/github/jahidanowar/nuxt-server-utils?file=playground%2Fapp.vue) -->
+- [🏀 Online playground](https://stackblitz.com/edit/nuxt-server-utils?file=nuxt.config.ts)
   <!-- - [📖 &nbsp;Documentation](https://example.com) -->
 
 ## Features
@@ -65,7 +65,7 @@ export default defineNuxtConfig({
 });
 ```
 
-That's it! You can now use My Module in your Nuxt app ✨
+That's it! You can now use Nuxt Server Utils in your Nuxt app ✨
 
 ## Development
 

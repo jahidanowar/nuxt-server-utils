@@ -13,22 +13,31 @@ A collection of utilities for Nuxt server.
 
 ## Features
 
-<!-- Highlight some of the features your module provide here -->
+<details>
+<summary>Filtering Collections (Mongoose)</summary>  
+- [x] Filtering
+- [x] Sorting
+- [x] Pagination
+- [x] Selecting
+- [x] Populating
+- [x] Counting
+- [x] Searching
+</details>
 
-- Filtering Collections (Mongoose)
-- - [x] Filtering
-- - [x] Sorting
-- - [x] Pagination
-- - [x] Selecting
-- - [x] Populating
-- - [x] Counting
-- - [x] Searching
-- Authorization
-- - [x] Authority checker utility
-- Resource Utilities
-- - [x] Resource index utility
-- - [x] Resource show utility
-- - [x] Resource delete utility
+<details>
+<summary>Authorization</summary>
+- [x] Authority checker utility
+- [ ] Permission checker utility
+- [ ] Policy utility
+</details>
+
+<details>
+<summary>Resource Utilities</summary>
+- [x] Resource index utility
+- [x] Resource show utility
+- [x] Resource delete utility
+- [ ] Resource update utility
+</details>
 
 ## Quick Setup
 

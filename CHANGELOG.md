@@ -1,5 +1,22 @@
 # Changelog
 
+## v0.0.6
+
+[compare changes](https://github.com/jahidanowar/nuxt-server-utils/compare/v0.0.5...v0.0.6)
+
+
+### 🚀 Enhancements
+
+  - Mongoose Nitro Plugin Added ([d01d977](https://github.com/jahidanowar/nuxt-server-utils/commit/d01d977))
+
+### 💅 Refactors
+
+  - Utilities updated to 3 main classes ([fbb239c](https://github.com/jahidanowar/nuxt-server-utils/commit/fbb239c))
+
+### ❤️  Contributors
+
+- Jahidanowar <milon5143@gmail.com>
+
 ## v0.0.5
 
 [compare changes](https://github.com/jahidanowar/nuxt-server-utils/compare/v0.0.4...v0.0.5)

@@ -50,6 +50,9 @@ export default defineNuxtModule<ModuleOptions>({
         const allows: typeof import("${resolver.resolve(
           "./runtime/server/utils"
         )}").allows;
+        const validateSchema: typeof import("${resolver.resolve(
+          "./runtime/server/utils"
+        )}").validateSchema;
       }`,
     });
 

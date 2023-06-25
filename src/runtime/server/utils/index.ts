@@ -5,3 +5,4 @@ export {
   showResourceHelper,
   deleteResourceHelper,
 } from "./resourceUtility";
+export { validateSchema } from "./validateSchema";

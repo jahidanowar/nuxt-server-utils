@@ -20,9 +20,9 @@ export interface indexRecourceHelperOptions<T> {
 }
 
 /**
+ * @deprecated since version 0.0.6
  * REST API helper function to get all documents from a collection
  * @template T - The type of data being indexed.
- * @deprecated since version 0.0.6
  * @param {indexRecourceHelperOptions<T>} options - Options for indexing.
  * @param {Model<T>} options.model - The model used for indexing.
  * @param {PopulateOptions[] | ((event: H3Event) => PopulateOptions[])} [options.related] - Options for populating related data or a function that returns options based on an event.
@@ -103,8 +103,8 @@ export interface ShowResourceHelperOptions<T> {
 }
 
 /**
- * REST API helper function to get a single document from a collection
  * @deprecated since version 0.0.6
+ * REST API helper function to get a single document from a collection
  * @template T - The type of data being shown.
  * @param {ShowResourceHelperOptions<T>} options - Options for showing.
  * @param {Model<T>} options.model - The model used for showing.
@@ -173,8 +173,8 @@ interface DeleteResourceHelperOptions<T> {
 }
 
 /**
- * REST API helper function to get a single document from a collection
  * @deprecated since version 0.0.6
+ * REST API helper function to get a single document from a collection
  * @template T - The type of data being deleted.
  * @param {DeleteResourceHelperOptions<T>} options - Options for deleting.
  * @param {Model<T>} options.model - The model used for deleting.

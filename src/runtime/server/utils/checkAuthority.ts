@@ -1,8 +1,8 @@
 import { H3Error, H3Event, createError } from "h3";
 
 /**
- * Gate
  * @deprecated since version 0.0.6
+ * Gate
  * @param event
  * @param fn
  * @param error

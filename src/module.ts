@@ -6,7 +6,7 @@ import {
 } from "@nuxt/kit";
 import { defu } from "defu";
 
-const DOCUMENTATION_URL = "https://nuxt-server-utils.jahid.dev";
+const DOCUMENTATION_URL = "https://nuxt-server-utils.jahid.dev/";
 
 // Module options TypeScript interface definition
 export interface ModuleOptions {

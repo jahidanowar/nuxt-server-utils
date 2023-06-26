@@ -1,4 +1,4 @@
-![Nuxt Server Utils](.github/nuxt-server-utils.png)
+[![Nuxt Server Utils](.github/nuxt-server-utils.png)](https://nuxt-server-utils.jahid.dev/)
 
 # 🛠️ Nuxt Server Utils
 
@@ -37,12 +37,18 @@ A collection of utility functions for Nuxt API development.
 </details>
 
 <details>
-<summary>Resource Utilities</summary>
+<summary>Resource Helper</summary>
 
 - [x] Resource index utility
 - [x] Resource show utility
 - [x] Resource delete utility
 - [ ] Resource update utility
+</details>
+
+<details>
+<summary>Validation</summary>
+
+- [x] Zod schema validator
 </details>
 
 ## Quick Setup

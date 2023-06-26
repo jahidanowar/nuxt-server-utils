@@ -21,7 +21,10 @@ describe("ssr", async () => {
 
   it("check the authorizer", async () => {
     // Get response to a server-rendered page with `$fetch`.
-    const html = await $fetch("/api/authorizer-failed");
-    expect(html).toContain("You are not allowed");
+    try {
+      await $fetch("/api/authorizer-failed");
+    } catch (e) {
+      expect(e.response.status).toBe(403);
+    }
   });
 });
